@@ -12,7 +12,8 @@ This project showcases how modern authentication concepts can be represented in 
 - Clean UI built with **vanilla CSS**.
 
 ##<img width="1900" height="865" alt="image" src="https://github.com/user-attachments/assets/c764349e-dbe0-41ef-8175-eb39a0c96b1e" />
-##
+##<img width="1915" height="862" alt="image" src="https://github.com/user-attachments/assets/97cc34a8-5811-45c6-88a3-17b8f07c0a5f" />
+
 
 
 ## 🛠 Tech Stack
