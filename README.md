@@ -1,7 +1,7 @@
 # SecureHelix
 It's a DNA LOCK  project with biometric authentication . Where it would ask for a fingerprint and also a DNA sequence to verify both the biometric and the sequence. If both of them match then the user can unlock the system .   Also we are working on this project to make this as a real world security system and updating the databases to work finely.
 
-# Demo 
+## Demo 
 A simple front-end demo of a simulated **biometric + DNA sequence lock system**.  
 This project showcases how modern authentication concepts can be represented in a lightweight **HTML/CSS/JS** application.
 
@@ -11,7 +11,9 @@ This project showcases how modern authentication concepts can be represented in 
 - Lock/Unlock system status updates in real time.
 - Clean UI built with **vanilla CSS**.
 
----
+##<img width="1900" height="865" alt="image" src="https://github.com/user-attachments/assets/c764349e-dbe0-41ef-8175-eb39a0c96b1e" />
+##
+
 
 ## 🛠 Tech Stack
 - **HTML5** for structure  
